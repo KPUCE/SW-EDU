@@ -17,7 +17,7 @@
 
 ### 참고문헌
  * 박상현 저, 이것이 자료구조 + 알고리즘 이다 with C언어, 한빛미디어, 2022.
- * [vim 제대로 가르쳐줌, 드림코] [https://www.youtube.com/watch?v=cY0JxzENBJg&t=801s]
+ * [vim 제대로 가르쳐줌, 드림코딩] [https://www.youtube.com/watch?v=cY0JxzENBJg&t=801s]
 
 ## 2학년 겨울방학
   * 데이터베이스, 운영체제, 네트워크프로그래밍 Study
