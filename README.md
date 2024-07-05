@@ -14,6 +14,7 @@
   * C언어 Study
   * Linux 사용법, vim 에디터 사용법, gcc 컴파일러를 이용한 개발환경, Tmux 사용법
   * 자료구조와 알고리즘 Study
+  * AI Coding Assistant(GPT, Claude, Github Copilot)를 활용한 프로그램 학습 방법론
 
 ### 참고문헌
  * 박상현 저, 이것이 자료구조 + 알고리즘 이다 with C언어, 한빛미디어, 2022.
