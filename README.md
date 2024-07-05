@@ -34,12 +34,16 @@
       Github Projects, Issues, Pages
     * Github Action을 이용한 CI(Continuous Integration)/CD(Continuous Delivery)
   * Firebase를 활용한 모바일 앱 개발
+  * Github Profile을 이용한 개발자 Portfolio 관리
   * Markdown 언어 사용법, Yaml 언어 사용법
 
 ## 3학년 겨울방학(팀으로 수행)
   * 종합설계(캡스톤디자인)의 완성도를 높이기 위한 노력
   * 본인이 진출하고자 하는 분야의 기술 스택 이해도를 높이고 DevOps 프로젝트 개발 방법론 숙지
-  * Github Profile을 이용한 개발자 Portfolio 관리
+  * Container 개념 이해 및 Docker 사용법
+  * Cloud Service Platform 사용
+    Amazon AWS, google Cloud Service Platform, Microsoft Azzur, Naver Cloud Platform
+  * github.io를 이용한 블로그 관리
 
 ## 4학년 여름방학
  * 코딩테스트 준비
