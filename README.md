@@ -14,7 +14,7 @@
   * C언어 Study
   * Linux 사용법, vim 에디터 사용법, gcc 컴파일러를 이용한 개발환경, Tmux 사용법
   * 자료구조와 알고리즘 Study
-  * AI Coding Assitant를 활용한 소프트웨어 개발 방법론
+  * AI Coding Assitant를 활용한 소프트웨어 개발 방법론  
     GPT4, Claude 3.5 Sonnet, Github Copilot
 
 ### 참고문헌
