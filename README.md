@@ -13,6 +13,7 @@
 ## 2학년 여름방학
   * C언어 Study
   * Linux 사용법, vim 에디터 사용법, gcc 컴파일러를 이용한 개발환경, Tmux 사용법
+  * [gcc 사용법] [https://github.com/KPUCE/SW-EDU/blob/main/UNIX%EA%B8%B0%EC%B4%88-%ED%95%84%EC%88%98%EC%9C%A0%ED%8B%B8%EB%A6%AC%ED%8B%B0(GCC%EC%82%AC%EC%9A%A9%EB%B2%95).pdf]
   * 자료구조와 알고리즘 Study
   * AI Coding Assitant를 활용한 소프트웨어 개발 방법론  
     GPT4, Claude 3.5 Sonnet, Github Copilot
