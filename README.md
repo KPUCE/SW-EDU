@@ -32,7 +32,7 @@
   * Agile 개발 방법론 습득
     * Scrum Framework
     * Git/Github을 이용한 개발
-      Github Projects, Issues, Pages
+      Github Projects, Issues, Pull Request, Pages
     * Github Action을 이용한 CI(Continuous Integration)/CD(Continuous Delivery)
   * Firebase를 활용한 모바일 앱 개발
   * Github Profile을 이용한 개발자 Portfolio 관리
