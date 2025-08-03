@@ -51,3 +51,5 @@
  * 이력서와 자기소개서, Portfolio 준비
 
 [test.md]
+
+[SW-EDU/test.md]
