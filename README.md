@@ -49,9 +49,3 @@
 ## 4학년 여름방학
  * 코딩테스트 준비
  * 이력서와 자기소개서, Portfolio 준비
-
-[test.md]
-
-[SW-EDU/test.md]
-
-[https://github.com/KPUCE/SW-EDU/blob/main/test.md]
